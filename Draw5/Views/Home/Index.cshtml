@@ -1,0 +1,13 @@
+﻿@model Draw5Model
+
+@{
+foreach (Card c in Model.Cards)
+{
+        <div>
+
+            <img src="c.image"/>
+            <p>@c.Value@c.Suit</p>
+        </div>
+}
+
+}

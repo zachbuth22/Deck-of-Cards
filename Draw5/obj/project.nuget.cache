@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZnAwFawNerNzLlJ6kQCaDDk21OiXWUQPh4vFSs4aftPfcFvHs10cqKJCp/AJfzsWjIZjzF9qEd5B99dNPiPRVA==",
+  "success": true,
+  "projectFilePath": "/Users/zachbuth/Projects/Draw5/Draw5/Draw5.csproj",
+  "expectedPackageFiles": [
+    "/Users/zachbuth/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

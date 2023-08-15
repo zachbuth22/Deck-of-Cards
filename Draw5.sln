@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draw5", "Draw5\Draw5.csproj", "{CE9A19E9-13ED-49C8-B5E6-EBD27D9CE7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9A19E9-13ED-49C8-B5E6-EBD27D9CE7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9A19E9-13ED-49C8-B5E6-EBD27D9CE7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9A19E9-13ED-49C8-B5E6-EBD27D9CE7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9A19E9-13ED-49C8-B5E6-EBD27D9CE7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C40C5A-726C-4D4B-BCAE-B52012851E77}
+	EndGlobalSection
+EndGlobal
